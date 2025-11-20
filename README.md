@@ -16,4 +16,4 @@ in the result you are going to see:
 
     ---
 
-clic [me](https://mybinder.org/v2/gh/Jesmine445/class-lesson/HEAD?filepath=stats.ipynb)
+click [me](https://mybinder.org/v2/gh/Jesmine445/class-lesson/HEAD?filepath=stats.ipynb)
